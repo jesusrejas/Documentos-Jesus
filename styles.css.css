@@ -1,0 +1,143 @@
+.cabezera{
+    color:rgb(149, 110, 207);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: right;
+    background-color: aquamarine;
+    padding: 25px;
+
+}
+.contenedor{
+    display: flex;
+}
+.izquierda{
+    flex:1;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(33, 4, 83);
+    padding: 10px;
+    img style="width: 10%; height: auto;">
+}
+.centro1{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(137, 148, 79);
+    padding: 25px;
+    img style="width: 10%;>
+
+}
+}
+.centro2{
+    flex:3;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(137, 148, 79);
+    padding: 25px;
+}
+.derecha{
+    flex:4;
+    color:rgb(130, 4, 4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: right;
+    background-color: rgb(213, 219, 181);
+    padding: 25px;
+}
+
+.izquierda2{
+    flex:1;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(33, 4, 83);
+    padding: 10px;
+    img style="width: 50%; height: auto;">
+}
+.centro1.1{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(137, 148, 79);
+    padding: 25px;
+}
+}
+.centro2.2{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(137, 148, 79);
+    padding: 25px;
+}
+.derecha2{
+    flex:4;
+    color:rgb(130, 4, 4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: right;
+    background-color: rgb(213, 219, 181);
+    padding: 25px;
+}
+
+}
+
+.izquierda3{
+    flex:1;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(33, 4, 83);
+    padding: 10px;
+    img style="width: 50%; height: auto;">
+}
+.centro1.3{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(137, 148, 79);
+    padding: 25px;
+}
+}
+.centro2.4{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(137, 148, 79);
+    padding: 25px;
+}
+.derecha3{
+    flex:4;
+    color:rgb(130, 4, 4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: right;
+    background-color: rgb(213, 219, 181);
+    padding: 25px;
+}
+
+}
+.derecha4{
+    flex:4;
+    color:rgb(130, 4, 4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: right;
+    background-color: rgb(213, 219, 181);
+    padding: 25px;
+}
